@@ -1,4 +1,4 @@
-# STEMist-Hacks-Submission
+# Analyzing HIV Treatement Compounds
 Group members: Hyun Chun, Vishwa Murugappan, Dheeraj Vislawath, Thomas Lu
 
 ### Classifiers
