@@ -1,4 +1,4 @@
-# Analyzing HIV Treatement Compounds
+# HIV Treatment Drug Discovery Machine Learning
 Group members: Hyun Chun, Vishwa Murugappan, Dheeraj Vislawath, Thomas Lu
 
 ### Classifiers
