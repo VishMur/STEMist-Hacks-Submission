@@ -1,2 +1,3 @@
 # STEMist-Hacks-Submission
-Group members: 
+Group members: Hyun Chun, Vishwa Murugappan, Dheeraj Vislawath, Thomas Lu
+
