@@ -17,7 +17,7 @@ Group members: Hyun Chun, Vishwa Murugappan, Dheeraj Vislawath, Thomas Lu
 <p float="left">
   <img src="/README%20Images/Grph1.jpeg" width="260" />
   <img src="/README%20Images/Grph2.jpeg" width="260" />
-  <img src="/README%20Images/Grph3.jpeg" width="260" />
+  <img src="/README%20Images/Grph3.jpeg" width="242" />
 </p>
 
 ### Counts of Target Inhibition Levels
