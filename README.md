@@ -1,2 +1,2 @@
 # STEMist-Hacks-Submission
-# Group members: 
+Group members: 
